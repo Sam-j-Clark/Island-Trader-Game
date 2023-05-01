@@ -6,7 +6,7 @@
 
 This game was the first project I ever wrote using Java (Beginning of 2021). 
 The game involves sailing around a map buying and selling resources to different islands with different demands. 
-It includes the ability to choose a ship, upgraed the ship, and receive random events while sailing.
+It includes the ability to choose a ship, upgrade the ship, and receive random events while sailing.
 One day I would love to come back to this project and try rewrite it. 
 
 Note that this application was originally created in Eclipse using build in methods for compiling and running the 
