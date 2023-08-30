@@ -10,12 +10,12 @@ It includes the ability to choose a ship, upgrade the ship, and receive random e
 One day I would love to come back to this project and try rewrite it. 
 
 Note that this application was originally created in Eclipse using build in methods for compiling and running the 
-application. I added a springboot startup just so that I could run the application a few years later. 
+application. I added a springboot startup just to simplify running the application a few years later. 
 
 ### Key Learnings 
 
 - A great introduction to Java and OOP principles,
-- My first major GUI application,
+- My first GUI application,
 - Frustrations with classpath issues solidified my understanding of using resources.
 
 
@@ -23,13 +23,12 @@ application. I added a springboot startup just so that I could run the applicati
 
 I think I am learning just as much from this project 2 years later (May 2023). This project gives me a real appreciation
 for how far I've come in my software engineering journey. I think it's also humbling because I remember being so proud 
-of this project and thinking it was fantastic. It makes me wonder if the work I produce now will look awful in a couple
+of this project and thinking it was fantastic. It makes me wonder if the work I produce now (in 2023) will look awful in a couple
 more years time. 
 
 ---
 
 ## Running the applciation. 
-
 
 --- 
 
